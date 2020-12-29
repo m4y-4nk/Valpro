@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Valpro2/static/css/main.51301f71.chunk.css",
-    "main.js": "/Valpro2/static/js/main.879e8eb7.chunk.js",
-    "main.js.map": "/Valpro2/static/js/main.879e8eb7.chunk.js.map",
+    "main.css": "/Valpro2/static/css/main.f0cb5641.chunk.css",
+    "main.js": "/Valpro2/static/js/main.1912bbdb.chunk.js",
+    "main.js.map": "/Valpro2/static/js/main.1912bbdb.chunk.js.map",
     "runtime-main.js": "/Valpro2/static/js/runtime-main.63399377.js",
     "runtime-main.js.map": "/Valpro2/static/js/runtime-main.63399377.js.map",
     "static/css/2.003dca41.chunk.css": "/Valpro2/static/css/2.003dca41.chunk.css",
@@ -10,9 +10,11 @@
     "static/js/2.71268114.chunk.js.map": "/Valpro2/static/js/2.71268114.chunk.js.map",
     "index.html": "/Valpro2/index.html",
     "static/css/2.003dca41.chunk.css.map": "/Valpro2/static/css/2.003dca41.chunk.css.map",
-    "static/css/main.51301f71.chunk.css.map": "/Valpro2/static/css/main.51301f71.chunk.css.map",
+    "static/css/main.f0cb5641.chunk.css.map": "/Valpro2/static/css/main.f0cb5641.chunk.css.map",
     "static/js/2.71268114.chunk.js.LICENSE.txt": "/Valpro2/static/js/2.71268114.chunk.js.LICENSE.txt",
     "static/media/Ares.8061649f.webp": "/Valpro2/static/media/Ares.8061649f.webp",
+    "static/media/Ascent-mini-map.8752dc3b.webp": "/Valpro2/static/media/Ascent-mini-map.8752dc3b.webp",
+    "static/media/Bind_mini-map.3355a346.webp": "/Valpro2/static/media/Bind_mini-map.3355a346.webp",
     "static/media/Breach_artwork.f003ff87.webp": "/Valpro2/static/media/Breach_artwork.f003ff87.webp",
     "static/media/Brimstone_artwork.696526ac.webp": "/Valpro2/static/media/Brimstone_artwork.696526ac.webp",
     "static/media/Bucky.ac977685.webp": "/Valpro2/static/media/Bucky.ac977685.webp",
@@ -22,7 +24,9 @@
     "static/media/Frenzy.98756b29.webp": "/Valpro2/static/media/Frenzy.98756b29.webp",
     "static/media/Ghost.116157f3.webp": "/Valpro2/static/media/Ghost.116157f3.webp",
     "static/media/Guardian.11233aa7.webp": "/Valpro2/static/media/Guardian.11233aa7.webp",
+    "static/media/Haven_mini-map.a4dc6dad.webp": "/Valpro2/static/media/Haven_mini-map.a4dc6dad.webp",
     "static/media/Home.css": "/Valpro2/static/media/HomePageBG.cad1335b.png",
+    "static/media/Icebox-mini-map.ddb071d1.webp": "/Valpro2/static/media/Icebox-mini-map.ddb071d1.webp",
     "static/media/Jett_artwork.84ddc59c.webp": "/Valpro2/static/media/Jett_artwork.84ddc59c.webp",
     "static/media/Judge.6d2ebad0.webp": "/Valpro2/static/media/Judge.6d2ebad0.webp",
     "static/media/Killjoy.aa114f72.webp": "/Valpro2/static/media/Killjoy.aa114f72.webp",
@@ -38,6 +42,7 @@
     "static/media/Operator.ffe03844.webp": "/Valpro2/static/media/Operator.ffe03844.webp",
     "static/media/Phantom.df475149.webp": "/Valpro2/static/media/Phantom.df475149.webp",
     "static/media/Phoenix_artwork.65eff6ef.webp": "/Valpro2/static/media/Phoenix_artwork.65eff6ef.webp",
+    "static/media/Range_mini-map.8bc10c33.webp": "/Valpro2/static/media/Range_mini-map.8bc10c33.webp",
     "static/media/Raze_artwork.376b2e74.webp": "/Valpro2/static/media/Raze_artwork.376b2e74.webp",
     "static/media/Reyna_artwork.d5b59e1e.webp": "/Valpro2/static/media/Reyna_artwork.d5b59e1e.webp",
     "static/media/Sage_artwork.74387127.webp": "/Valpro2/static/media/Sage_artwork.74387127.webp",
@@ -46,6 +51,7 @@
     "static/media/Skye_Keyart_final.10d6c94c.webp": "/Valpro2/static/media/Skye_Keyart_final.10d6c94c.webp",
     "static/media/Sova_artwork.78a61d4f.webp": "/Valpro2/static/media/Sova_artwork.78a61d4f.webp",
     "static/media/Spectre.12476b1e.webp": "/Valpro2/static/media/Spectre.12476b1e.webp",
+    "static/media/Split_mini-map.f887d8fa.webp": "/Valpro2/static/media/Split_mini-map.f887d8fa.webp",
     "static/media/Stinger.118d59fc.webp": "/Valpro2/static/media/Stinger.118d59fc.webp",
     "static/media/TX_CompetitiveTier_Large_10.107e3104.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_10.107e3104.webp",
     "static/media/TX_CompetitiveTier_Large_11.f317aad3.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_11.f317aad3.webp",
@@ -77,7 +83,7 @@
     "static/js/runtime-main.63399377.js",
     "static/css/2.003dca41.chunk.css",
     "static/js/2.71268114.chunk.js",
-    "static/css/main.51301f71.chunk.css",
-    "static/js/main.879e8eb7.chunk.js"
+    "static/css/main.f0cb5641.chunk.css",
+    "static/js/main.1912bbdb.chunk.js"
   ]
 }
