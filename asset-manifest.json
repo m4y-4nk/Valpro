@@ -1,18 +1,30 @@
 {
   "files": {
     "main.css": "/Valpro2/static/css/main.368ebc81.chunk.css",
-    "main.js": "/Valpro2/static/js/main.a29474b6.chunk.js",
-    "main.js.map": "/Valpro2/static/js/main.a29474b6.chunk.js.map",
+    "main.js": "/Valpro2/static/js/main.cd357562.chunk.js",
+    "main.js.map": "/Valpro2/static/js/main.cd357562.chunk.js.map",
     "runtime-main.js": "/Valpro2/static/js/runtime-main.63399377.js",
     "runtime-main.js.map": "/Valpro2/static/js/runtime-main.63399377.js.map",
     "static/css/2.003dca41.chunk.css": "/Valpro2/static/css/2.003dca41.chunk.css",
-    "static/js/2.4fad01da.chunk.js": "/Valpro2/static/js/2.4fad01da.chunk.js",
-    "static/js/2.4fad01da.chunk.js.map": "/Valpro2/static/js/2.4fad01da.chunk.js.map",
+    "static/js/2.7af0d8d0.chunk.js": "/Valpro2/static/js/2.7af0d8d0.chunk.js",
+    "static/js/2.7af0d8d0.chunk.js.map": "/Valpro2/static/js/2.7af0d8d0.chunk.js.map",
     "index.html": "/Valpro2/index.html",
     "static/css/2.003dca41.chunk.css.map": "/Valpro2/static/css/2.003dca41.chunk.css.map",
     "static/css/main.368ebc81.chunk.css.map": "/Valpro2/static/css/main.368ebc81.chunk.css.map",
-    "static/js/2.4fad01da.chunk.js.LICENSE.txt": "/Valpro2/static/js/2.4fad01da.chunk.js.LICENSE.txt",
+    "static/js/2.7af0d8d0.chunk.js.LICENSE.txt": "/Valpro2/static/js/2.7af0d8d0.chunk.js.LICENSE.txt",
+    "static/media/Breach_artwork.f003ff87.webp": "/Valpro2/static/media/Breach_artwork.f003ff87.webp",
+    "static/media/Brimstone_artwork.696526ac.webp": "/Valpro2/static/media/Brimstone_artwork.696526ac.webp",
+    "static/media/Cypher_artwork.d6c72d1e.webp": "/Valpro2/static/media/Cypher_artwork.d6c72d1e.webp",
     "static/media/Home.css": "/Valpro2/static/media/HomePageBG.cad1335b.png",
+    "static/media/Jett_artwork.84ddc59c.webp": "/Valpro2/static/media/Jett_artwork.84ddc59c.webp",
+    "static/media/Killjoy.aa114f72.webp": "/Valpro2/static/media/Killjoy.aa114f72.webp",
+    "static/media/Omen_artwork.a4979048.webp": "/Valpro2/static/media/Omen_artwork.a4979048.webp",
+    "static/media/Phoenix_artwork.65eff6ef.webp": "/Valpro2/static/media/Phoenix_artwork.65eff6ef.webp",
+    "static/media/Raze_artwork.376b2e74.webp": "/Valpro2/static/media/Raze_artwork.376b2e74.webp",
+    "static/media/Reyna_artwork.d5b59e1e.webp": "/Valpro2/static/media/Reyna_artwork.d5b59e1e.webp",
+    "static/media/Sage_artwork.74387127.webp": "/Valpro2/static/media/Sage_artwork.74387127.webp",
+    "static/media/Skye_Keyart_final.10d6c94c.webp": "/Valpro2/static/media/Skye_Keyart_final.10d6c94c.webp",
+    "static/media/Sova_artwork.78a61d4f.webp": "/Valpro2/static/media/Sova_artwork.78a61d4f.webp",
     "static/media/TX_CompetitiveTier_Large_10.107e3104.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_10.107e3104.webp",
     "static/media/TX_CompetitiveTier_Large_11.f317aad3.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_11.f317aad3.webp",
     "static/media/TX_CompetitiveTier_Large_12.a53cd131.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_12.a53cd131.webp",
@@ -34,13 +46,14 @@
     "static/media/TX_CompetitiveTier_Large_6.d48cdda3.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_6.d48cdda3.webp",
     "static/media/TX_CompetitiveTier_Large_7.93ed1751.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_7.93ed1751.webp",
     "static/media/TX_CompetitiveTier_Large_8.63310184.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_8.63310184.webp",
-    "static/media/TX_CompetitiveTier_Large_9.6eb487f9.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_9.6eb487f9.webp"
+    "static/media/TX_CompetitiveTier_Large_9.6eb487f9.webp": "/Valpro2/static/media/TX_CompetitiveTier_Large_9.6eb487f9.webp",
+    "static/media/Viper_artwork.c21c9282.webp": "/Valpro2/static/media/Viper_artwork.c21c9282.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.63399377.js",
     "static/css/2.003dca41.chunk.css",
-    "static/js/2.4fad01da.chunk.js",
+    "static/js/2.7af0d8d0.chunk.js",
     "static/css/main.368ebc81.chunk.css",
-    "static/js/main.a29474b6.chunk.js"
+    "static/js/main.cd357562.chunk.js"
   ]
 }
