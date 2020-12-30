@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Valpro2/static/css/main.ef72f474.chunk.css",
+    "main.css": "/Valpro2/static/css/main.7d229987.chunk.css",
     "main.js": "/Valpro2/static/js/main.10109141.chunk.js",
     "main.js.map": "/Valpro2/static/js/main.10109141.chunk.js.map",
     "runtime-main.js": "/Valpro2/static/js/runtime-main.63399377.js",
@@ -10,12 +10,12 @@
     "static/js/2.f4d672d8.chunk.js.map": "/Valpro2/static/js/2.f4d672d8.chunk.js.map",
     "index.html": "/Valpro2/index.html",
     "static/css/2.003dca41.chunk.css.map": "/Valpro2/static/css/2.003dca41.chunk.css.map",
-    "static/css/main.ef72f474.chunk.css.map": "/Valpro2/static/css/main.ef72f474.chunk.css.map",
+    "static/css/main.7d229987.chunk.css.map": "/Valpro2/static/css/main.7d229987.chunk.css.map",
     "static/js/2.f4d672d8.chunk.js.LICENSE.txt": "/Valpro2/static/js/2.f4d672d8.chunk.js.LICENSE.txt",
+    "static/media/About.css": "/Valpro2/static/media/AboutPageBG.de2def0b.png",
     "static/media/Ares.8061649f.webp": "/Valpro2/static/media/Ares.8061649f.webp",
     "static/media/Ascent-mini-map.8752dc3b.webp": "/Valpro2/static/media/Ascent-mini-map.8752dc3b.webp",
     "static/media/Content1.css": "/Valpro2/static/media/BG_1.cad1335b.png",
-    "static/media/Content2.css": "/Valpro2/static/media/BG_2.c9010e8d.jpg",
     "static/media/Bind_mini-map.3355a346.webp": "/Valpro2/static/media/Bind_mini-map.3355a346.webp",
     "static/media/Breach_artwork.f003ff87.webp": "/Valpro2/static/media/Breach_artwork.f003ff87.webp",
     "static/media/Brimstone_artwork.696526ac.webp": "/Valpro2/static/media/Brimstone_artwork.696526ac.webp",
@@ -84,7 +84,7 @@
     "static/js/runtime-main.63399377.js",
     "static/css/2.003dca41.chunk.css",
     "static/js/2.f4d672d8.chunk.js",
-    "static/css/main.ef72f474.chunk.css",
+    "static/css/main.7d229987.chunk.css",
     "static/js/main.10109141.chunk.js"
   ]
 }
