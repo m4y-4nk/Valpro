@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Valpro2/static/css/main.f0cb5641.chunk.css",
-    "main.js": "/Valpro2/static/js/main.bf939c78.chunk.js",
-    "main.js.map": "/Valpro2/static/js/main.bf939c78.chunk.js.map",
+    "main.css": "/Valpro2/static/css/main.ef72f474.chunk.css",
+    "main.js": "/Valpro2/static/js/main.10109141.chunk.js",
+    "main.js.map": "/Valpro2/static/js/main.10109141.chunk.js.map",
     "runtime-main.js": "/Valpro2/static/js/runtime-main.63399377.js",
     "runtime-main.js.map": "/Valpro2/static/js/runtime-main.63399377.js.map",
     "static/css/2.003dca41.chunk.css": "/Valpro2/static/css/2.003dca41.chunk.css",
-    "static/js/2.c7b68cdf.chunk.js": "/Valpro2/static/js/2.c7b68cdf.chunk.js",
-    "static/js/2.c7b68cdf.chunk.js.map": "/Valpro2/static/js/2.c7b68cdf.chunk.js.map",
+    "static/js/2.f4d672d8.chunk.js": "/Valpro2/static/js/2.f4d672d8.chunk.js",
+    "static/js/2.f4d672d8.chunk.js.map": "/Valpro2/static/js/2.f4d672d8.chunk.js.map",
     "index.html": "/Valpro2/index.html",
     "static/css/2.003dca41.chunk.css.map": "/Valpro2/static/css/2.003dca41.chunk.css.map",
-    "static/css/main.f0cb5641.chunk.css.map": "/Valpro2/static/css/main.f0cb5641.chunk.css.map",
-    "static/js/2.c7b68cdf.chunk.js.LICENSE.txt": "/Valpro2/static/js/2.c7b68cdf.chunk.js.LICENSE.txt",
+    "static/css/main.ef72f474.chunk.css.map": "/Valpro2/static/css/main.ef72f474.chunk.css.map",
+    "static/js/2.f4d672d8.chunk.js.LICENSE.txt": "/Valpro2/static/js/2.f4d672d8.chunk.js.LICENSE.txt",
     "static/media/Ares.8061649f.webp": "/Valpro2/static/media/Ares.8061649f.webp",
     "static/media/Ascent-mini-map.8752dc3b.webp": "/Valpro2/static/media/Ascent-mini-map.8752dc3b.webp",
+    "static/media/Content1.css": "/Valpro2/static/media/BG_1.cad1335b.png",
+    "static/media/Content2.css": "/Valpro2/static/media/BG_2.c9010e8d.jpg",
     "static/media/Bind_mini-map.3355a346.webp": "/Valpro2/static/media/Bind_mini-map.3355a346.webp",
     "static/media/Breach_artwork.f003ff87.webp": "/Valpro2/static/media/Breach_artwork.f003ff87.webp",
     "static/media/Brimstone_artwork.696526ac.webp": "/Valpro2/static/media/Brimstone_artwork.696526ac.webp",
@@ -25,7 +27,6 @@
     "static/media/Ghost.116157f3.webp": "/Valpro2/static/media/Ghost.116157f3.webp",
     "static/media/Guardian.11233aa7.webp": "/Valpro2/static/media/Guardian.11233aa7.webp",
     "static/media/Haven_mini-map.a4dc6dad.webp": "/Valpro2/static/media/Haven_mini-map.a4dc6dad.webp",
-    "static/media/Home.css": "/Valpro2/static/media/HomePageBG.cad1335b.png",
     "static/media/Icebox-mini-map.ddb071d1.webp": "/Valpro2/static/media/Icebox-mini-map.ddb071d1.webp",
     "static/media/Jett_artwork.84ddc59c.webp": "/Valpro2/static/media/Jett_artwork.84ddc59c.webp",
     "static/media/Judge.6d2ebad0.webp": "/Valpro2/static/media/Judge.6d2ebad0.webp",
@@ -82,8 +83,8 @@
   "entrypoints": [
     "static/js/runtime-main.63399377.js",
     "static/css/2.003dca41.chunk.css",
-    "static/js/2.c7b68cdf.chunk.js",
-    "static/css/main.f0cb5641.chunk.css",
-    "static/js/main.bf939c78.chunk.js"
+    "static/js/2.f4d672d8.chunk.js",
+    "static/css/main.ef72f474.chunk.css",
+    "static/js/main.10109141.chunk.js"
   ]
 }
