@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Valpro2/static/css/main.f0cb5641.chunk.css",
-    "main.js": "/Valpro2/static/js/main.f273e1bf.chunk.js",
-    "main.js.map": "/Valpro2/static/js/main.f273e1bf.chunk.js.map",
+    "main.js": "/Valpro2/static/js/main.bf939c78.chunk.js",
+    "main.js.map": "/Valpro2/static/js/main.bf939c78.chunk.js.map",
     "runtime-main.js": "/Valpro2/static/js/runtime-main.63399377.js",
     "runtime-main.js.map": "/Valpro2/static/js/runtime-main.63399377.js.map",
     "static/css/2.003dca41.chunk.css": "/Valpro2/static/css/2.003dca41.chunk.css",
-    "static/js/2.71268114.chunk.js": "/Valpro2/static/js/2.71268114.chunk.js",
-    "static/js/2.71268114.chunk.js.map": "/Valpro2/static/js/2.71268114.chunk.js.map",
+    "static/js/2.c7b68cdf.chunk.js": "/Valpro2/static/js/2.c7b68cdf.chunk.js",
+    "static/js/2.c7b68cdf.chunk.js.map": "/Valpro2/static/js/2.c7b68cdf.chunk.js.map",
     "index.html": "/Valpro2/index.html",
     "static/css/2.003dca41.chunk.css.map": "/Valpro2/static/css/2.003dca41.chunk.css.map",
     "static/css/main.f0cb5641.chunk.css.map": "/Valpro2/static/css/main.f0cb5641.chunk.css.map",
-    "static/js/2.71268114.chunk.js.LICENSE.txt": "/Valpro2/static/js/2.71268114.chunk.js.LICENSE.txt",
+    "static/js/2.c7b68cdf.chunk.js.LICENSE.txt": "/Valpro2/static/js/2.c7b68cdf.chunk.js.LICENSE.txt",
     "static/media/Ares.8061649f.webp": "/Valpro2/static/media/Ares.8061649f.webp",
     "static/media/Ascent-mini-map.8752dc3b.webp": "/Valpro2/static/media/Ascent-mini-map.8752dc3b.webp",
     "static/media/Bind_mini-map.3355a346.webp": "/Valpro2/static/media/Bind_mini-map.3355a346.webp",
@@ -82,8 +82,8 @@
   "entrypoints": [
     "static/js/runtime-main.63399377.js",
     "static/css/2.003dca41.chunk.css",
-    "static/js/2.71268114.chunk.js",
+    "static/js/2.c7b68cdf.chunk.js",
     "static/css/main.f0cb5641.chunk.css",
-    "static/js/main.f273e1bf.chunk.js"
+    "static/js/main.bf939c78.chunk.js"
   ]
 }
