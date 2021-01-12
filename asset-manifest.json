@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Valpro/static/css/main.6b820a24.chunk.css",
-    "main.js": "/Valpro/static/js/main.53859913.chunk.js",
-    "main.js.map": "/Valpro/static/js/main.53859913.chunk.js.map",
+    "main.js": "/Valpro/static/js/main.c1e2cb87.chunk.js",
+    "main.js.map": "/Valpro/static/js/main.c1e2cb87.chunk.js.map",
     "runtime-main.js": "/Valpro/static/js/runtime-main.6e5712f7.js",
     "runtime-main.js.map": "/Valpro/static/js/runtime-main.6e5712f7.js.map",
     "static/css/2.003dca41.chunk.css": "/Valpro/static/css/2.003dca41.chunk.css",
@@ -86,6 +86,6 @@
     "static/css/2.003dca41.chunk.css",
     "static/js/2.4fe5584a.chunk.js",
     "static/css/main.6b820a24.chunk.css",
-    "static/js/main.53859913.chunk.js"
+    "static/js/main.c1e2cb87.chunk.js"
   ]
 }
